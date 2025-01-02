@@ -42,28 +42,41 @@ office hours by appointment
   - Polyphony
 
 ### Week 2 (1/28)
+- Sampling (buffer~)
 
 ### Week 3 (2/4)
+- Additive Synthesis (SPEAR)
 
 ### Week 4 (2/11)
+- RNBO and putting audio in the web
 
 ### Week 5 (2/18)
+- Shepard tone + synth lab
 
 ### Week 6 (2/25)
+- Wavetable synthesis
 
 ### Week 7 (3/4)
+- FFT and fourier
 
 ### Week 8 (3/11)
+- Delay lines
 
 ### Week 9 (3/25)
+- Rain synthesis and upshot
 
 ### Week 10 (4/1)
+- FluCoMa
 
 ### Week 11 (4/8)
+- Granular Synthesis + MC
 
 ### Week 12 (4/15)
+- More granular synthesis?
 
 ### Week 13 (4/22)
+- Audio-reactive video?
+- Laptop orchestra (link + graphic score)
 
 ### Week 14 (4/29)
 - Final Presentations/Crit
@@ -75,3 +88,8 @@ office hours by appointment
   - Next week, make a composition using someone else's drum kit
 - One-finger composition (compose a piece that you play with just a single finger, using the track pad on your laptop)
 - Guitar (even if you can't play guitar, get into the sound lab, connect a guitar to some interface, and start layering)
+- Game controller composition
+- Video game sound design (maybe a "mario" clone that runs in the browser?)
+- Live performance with arduino and just one sensor
+- Contact mic performance
+- Spatialized composition
