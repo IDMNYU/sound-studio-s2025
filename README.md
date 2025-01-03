@@ -48,22 +48,22 @@ office hours by appointment
 - Additive Synthesis (SPEAR)
 
 ### Week 4 (2/11)
-- RNBO and putting audio in the web
+- AM, FM, Envelopes
 
 ### Week 5 (2/18)
-- Shepard tone + synth lab
+- Synth lab
 
 ### Week 6 (2/25)
-- Wavetable synthesis
+- Patterns and sequences
 
 ### Week 7 (3/4)
-- FFT and fourier
+- Layering and Upshot
 
 ### Week 8 (3/11)
-- Delay lines
+- Delay lines and Filters
 
 ### Week 9 (3/25)
-- Rain synthesis and upshot
+- FFT and Fourier
 
 ### Week 10 (4/1)
 - FluCoMa
