@@ -66,13 +66,13 @@ office hours by appointment
 - FFT and Fourier
 
 ### Week 10 (4/1)
-- FluCoMa
+- MIDI and HI Controllers
 
 ### Week 11 (4/8)
-- Granular Synthesis + MC
+- Contact Microphones + Microcontrollers
 
 ### Week 12 (4/15)
-- More granular synthesis?
+- MC + Spatialization
 
 ### Week 13 (4/22)
 - Audio-reactive video?
